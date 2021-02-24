@@ -1,0 +1,22 @@
+<div class="row justify-content-center">
+  <h2 class="title">Featured properties</h2>
+  <app-spinner *ngIf="!loaded"> </app-spinner>
+  <div class="mt-4 row" *ngIf="loaded">
+    <div *ngFor="let item of stockModel; index as i" class="col-sm-12 col-md-5 col-lg-4 mb-2 pr-1 pointer" [routerLink]="['/details/', item.id]">
+      <div class="card">
+        <img class="card-img-top" src="{{ item.mainImageUrl }}" />
+        <div class="card-body">
+          <h5 class="card-title">{{ item.city }}, {{ item.state }}</h5>
+          <div>
+            <span class="foot-text"> bd {{ item.bedRooms }} | </span>
+            <span class="foot-text"> ba {{ item.bathRooms }} | </span>
+            <span class="foot-text"> {{ item.squareFeet }} sqft </span>
+          </div>
+          <div>
+            <span class="foot-text"> Gross Yield {{ item.grossYield }}% </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

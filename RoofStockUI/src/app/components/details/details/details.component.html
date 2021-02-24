@@ -1,0 +1,62 @@
+<app-spinner *ngIf="!loaded"> </app-spinner>
+
+<div class="row " *ngIf="loaded">
+    <div>
+        <button class="btn btn-secondary"[routerLink]="['/']"> Home </button>
+    </div>
+    <div class="justify-content-center">
+        <h2 class="title">{{stockModel.city}}, {{stockModel.state}}</h2>
+        <div class="mt-4 row">
+            <div class="card col-sm-12 col-md-6 col-lg-7 justify-content-start p-0">
+                <div *ngIf="stockModel.resources.photos.length > 0" id="carouselImages{{i}}" class="carousel slide carousel-height" data-ride="carousel">
+                <div class="carousel-inner">
+                    <div *ngFor="let photo of stockModel.resources.photos; index as j" [ngClass]="j === 0 ? 'carousel-item active' : 'carousel-item' ">
+                    <img class="d-block w-100" src={{photo.urlImage}} >
+                    </div>
+                </div>
+                <a class="carousel-control-prev " href="#carouselImages{{i}}" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselImages{{i}}" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+                </div>
+                <div *ngIf="stockModel.resources.photos.length === 0" id="carouselImages" class="carousel slide" data-ride="carousel">
+                <img class="card-img-top" src={{stockModel.mainImageUrl}}>
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">{{ stockModel.country }}, ${{ stockModel.monthlyRent }}</h5>
+                    <div>
+                      <span class="foot-text"> bd {{ stockModel.bedRooms }} | </span>
+                      <span class="foot-text"> ba {{ stockModel.bathRooms }} | </span>
+                      <span class="foot-text"> {{ stockModel.squareFeet }} sqft </span>
+                    </div>
+                    <div>
+                      <span class="foot-text"> Gross Yield {{ stockModel.grossYield }}% </span>
+                    </div>
+                  </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-5 justify-content-start">
+                <h4> Property details</h4>
+                <div class="row p-4">
+                    <b>List price:</b> <span>${{stockModel.listPrice}}</span>
+                </div>
+                <div class="row p-4">
+                    <b>Year Built:</b> <span>{{stockModel.yearBuilt}}</span>
+                </div>
+                <div class="row p-4">
+                    <b>Address:</b> <span>{{stockModel.address1}}</span>
+                </div>
+                <div class="row p-4">
+                    <b>Zip code:</b> <span>{{stockModel.zipCode}}</span>
+                </div>
+                <div class="row p-4">
+                    <button class="btn btn-primary" (click)="saveProperty(stockModel.id, stockModel.city, stockModel.state)">Save property</button>
+                </div>
+            </div>
+        </div>
+    </div>
+  </div>   
+ 
