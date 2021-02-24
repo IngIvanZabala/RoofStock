@@ -1,0 +1,232 @@
+C:\Users\ivan.zabala\Desktop\RockStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ivan.zabala\Desktop\RockStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ivan.zabala\Desktop\RockStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\RoofStockAssesment.exe
+C:\Users\ivan.zabala\Desktop\RockStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\RoofStockAssesment.deps.json
+C:\Users\ivan.zabala\Desktop\RockStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\RoofStockAssesment.runtimeconfig.json
+C:\Users\ivan.zabala\Desktop\RockStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\RoofStockAssesment.runtimeconfig.dev.json
+C:\Users\ivan.zabala\Desktop\RockStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\RoofStockAssesment.dll
+C:\Users\ivan.zabala\Desktop\RockStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\RoofStockAssesment.pdb
+C:\Users\ivan.zabala\Desktop\RockStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ivan.zabala\Desktop\RockStock Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.csprojAssemblyReference.cache
+C:\Users\ivan.zabala\Desktop\RockStock Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.AssemblyInfoInputs.cache
+C:\Users\ivan.zabala\Desktop\RockStock Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.AssemblyInfo.cs
+C:\Users\ivan.zabala\Desktop\RockStock Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.csproj.CoreCompileInputs.cache
+C:\Users\ivan.zabala\Desktop\RockStock Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivan.zabala\Desktop\RockStock Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\staticwebassets\RoofStockAssesment.StaticWebAssets.Manifest.cache
+C:\Users\ivan.zabala\Desktop\RockStock Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\staticwebassets\RoofStockAssesment.StaticWebAssets.xml
+C:\Users\ivan.zabala\Desktop\RockStock Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\scopedcss\bundle\RoofStockAssesment.styles.css
+C:\Users\ivan.zabala\Desktop\RockStock Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.RazorTargetAssemblyInfo.cache
+C:\Users\ivan.zabala\Desktop\RockStock Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.csproj.CopyComplete
+C:\Users\ivan.zabala\Desktop\RockStock Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.dll
+C:\Users\ivan.zabala\Desktop\RockStock Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.pdb
+C:\Users\ivan.zabala\Desktop\RockStock Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.genruntimeconfig.cache
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\RoofStockAssesment.exe
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\RoofStockAssesment.deps.json
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\RoofStockAssesment.runtimeconfig.json
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\RoofStockAssesment.runtimeconfig.dev.json
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\RoofStockAssesment.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\RoofStockAssesment.pdb
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.csprojAssemblyReference.cache
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.AssemblyInfoInputs.cache
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.AssemblyInfo.cs
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.csproj.CoreCompileInputs.cache
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\staticwebassets\RoofStockAssesment.StaticWebAssets.Manifest.cache
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\staticwebassets\RoofStockAssesment.StaticWebAssets.xml
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\scopedcss\bundle\RoofStockAssesment.styles.css
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.RazorTargetAssemblyInfo.cache
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.csproj.CopyComplete
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.pdb
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.genruntimeconfig.cache
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\RoofStockAssesment.exe
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\RoofStockAssesment.deps.json
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\RoofStockAssesment.runtimeconfig.json
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\RoofStockAssesment.runtimeconfig.dev.json
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\RoofStockAssesment.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\RoofStockAssesment.pdb
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.csprojAssemblyReference.cache
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.AssemblyInfoInputs.cache
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.AssemblyInfo.cs
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.csproj.CoreCompileInputs.cache
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\staticwebassets\RoofStockAssesment.StaticWebAssets.Manifest.cache
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\staticwebassets\RoofStockAssesment.StaticWebAssets.xml
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\scopedcss\bundle\RoofStockAssesment.styles.css
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.RazorTargetAssemblyInfo.cache
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.csproj.CopyComplete
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.pdb
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStockAssesment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.genruntimeconfig.cache
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\RoofStockAssesment.exe
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\RoofStockAssesment.deps.json
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\RoofStockAssesment.runtimeconfig.json
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\RoofStockAssesment.runtimeconfig.dev.json
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\RoofStockAssesment.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\RoofStockAssesment.pdb
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.csprojAssemblyReference.cache
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.AssemblyInfoInputs.cache
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.AssemblyInfo.cs
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.csproj.CoreCompileInputs.cache
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\obj\Debug\netcoreapp3.1\staticwebassets\RoofStockAssesment.StaticWebAssets.Manifest.cache
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\obj\Debug\netcoreapp3.1\staticwebassets\RoofStockAssesment.StaticWebAssets.xml
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\obj\Debug\netcoreapp3.1\scopedcss\bundle\RoofStockAssesment.styles.css
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.RazorTargetAssemblyInfo.cache
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.csproj.CopyComplete
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.dll
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.pdb
+C:\Users\ivan.zabala\Desktop\RoofStock Assestment\Assestment\RoofStock API\RoofStockAssestment\RoofStockAssesment\obj\Debug\netcoreapp3.1\RoofStockAssesment.genruntimeconfig.cache
