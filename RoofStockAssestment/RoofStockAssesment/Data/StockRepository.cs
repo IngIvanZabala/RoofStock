@@ -6,8 +6,6 @@ using RoofStockAssesment.Common.Entities;
 using RoofStockAssesment.Common.Models;
 using System;
 using System.Threading.Tasks;
-using System.Resources;
-using System.Reflection;
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
 
@@ -28,20 +26,29 @@ namespace RoofStockAssesment.Data
             _context = context;
             _mapper = mapper;
         }
+        //Saving element data
 
         public async Task<BaseResponseModel> SaveStockData(PropertyDTO property)
         {
+            // checking if the element already exists on the database
             bool elementExist = await ElementAlreadyExist(property.Id);
             if (elementExist)
+                // returning isSuccess = false if the element already exists
                 return new BaseResponseModel { IsSuccess = false, Message = Constants.failMessage };
+            //Creating a new database context transaction
             using (var dbContextTransaction = _context.Database.BeginTransaction())
             {
                 try
                 {
+                    //Mapping the dto object into the database entity
                     Property newProperty = _mapper.Map<Property>(property);
+                    //creatint the new record
                     await _context.Properties.AddAsync(newProperty);
+                    //saving the new record
                     await _context.SaveChangesAsync();
+                    //Doing the commit for the transaction
                     await dbContextTransaction.CommitAsync();
+                    //Returning the successfull message
                     return new BaseResponseModel { IsSuccess = true, Message = Constants.okMessage };
                 }
                 catch (Exception ex)
@@ -56,6 +63,7 @@ namespace RoofStockAssesment.Data
         {
             try
             {
+                //checking if the element already exists on the database
                 var stockItem = await _context.Properties.Where(x => x.Id == id).FirstOrDefaultAsync();
                 return stockItem != null;
             }

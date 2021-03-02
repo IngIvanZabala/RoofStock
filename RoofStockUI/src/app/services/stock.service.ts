@@ -15,12 +15,15 @@ export class StockService {
   }
 
   getStockData(): Observable<StockDataModel[]> {
+    // Calling the API to get all the data from the API
     return this.http.get<StockDataModel[]>(this.apiUrl + '/Stock');
   }
   getStockDataById(id): Observable<StockDataModel> {
+    // Calling the API to get the data from the IP, sending the id
     return this.http.get<StockDataModel>(this.apiUrl + '/Stock/' + id);
   }
   saveStockDataById(id): Observable<BaseResponseModel> {
+    // Calling the API to create a new record
     return this.http.post<BaseResponseModel>(this.apiUrl + '/Stock/' + id, '');
   }
 }

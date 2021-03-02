@@ -4,6 +4,7 @@
 
 export const environment = {
   production: false,
+  // It should be the same port than backend service one.
   urlService: 'http://localhost:50638/api'
 };
 

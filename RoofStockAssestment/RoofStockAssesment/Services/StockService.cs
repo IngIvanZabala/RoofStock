@@ -35,16 +35,21 @@ namespace RoofStockAssesment.Services
         {
             try
             {
+                //Calling an external layer to get the API info
                 StockPropertiesModel blobData = await _externalApi.GetStockData();
                 List<PropertiesModel> properties = new List<PropertiesModel>();
+                //Looping into the data
                 foreach (var property in blobData.Properties)
                 {
+                    //Validating if the Financial and Physical properties are correctly populated
                     if (property.Financial != null && property.Physical != null)
                     {
+                        //Calling the metod to cast the properties into the object that we'll return
                         properties.Add(CastStockData(property));
                     }
                     else
                     {
+                        //Logging the validation as a warning
                         _logger.Warn($"The element with Id {property.Id} has null values on Financial and Physical properties");
                     }
                 }
@@ -57,7 +62,9 @@ namespace RoofStockAssesment.Services
         }
         public async Task<PropertiesModel> GetStockDataById(int id)
         {
+            //Calling an external layer to get the API info by Id
             PropertiesObject blobData = await _externalApi.GetStockDataById(id);
+            //Calling the metod to cast the properties into the object that we'll return
             return CastStockData(blobData);
         }
 
@@ -67,6 +74,7 @@ namespace RoofStockAssesment.Services
             {
                 _logger.Info("Going to create the new property");
                 var property = await GetStockDataById(id);
+                //Using automapper to transform the address from the property into an address object, to be serilized and saved on the DB as a Json String
                 Address itemAddress = _mapper.Map<Address>(property);
                 PropertyDTO propertiesDTO = new PropertyDTO
                 {
@@ -90,6 +98,7 @@ namespace RoofStockAssesment.Services
         {
             try
             {
+                // Mapping one by one the properties for the PropertiesModel, doing the necessary transform for each field
                 PropertiesModel property = new PropertiesModel
                 {
                     Id = blobData.Id,

@@ -22,6 +22,7 @@ namespace RoofStockAssesment.Common.Entities
         {
             if (!optionsBuilder.IsConfigured)
             {
+                //HERE, the following connection string should be updated, according the local SQL Instance:
                 optionsBuilder.UseSqlServer("Server=(LocalDb)\\MSSQLLocalDB;Database=Properties;Trusted_Connection=True;");
             }
         }

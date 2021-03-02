@@ -4,7 +4,7 @@ Please clone the following github public repo: https://github.com/IngIvanZabala/
 * The repo contains two folders RoofStockAssestment for the API and RoofStockUI for the UI
 * Tha folder RoofStockAssestment contains the API project, and the Sql script named "RoofStockPropertiesDB.sql"
 * The Script file, should be run on sql server. Open it and run it.
-* The folder RoofStockAssestment contains the backend solution, Once you run the script you'll be able to run the solution
+* In the same folder, you can found the backend solution, Once you run the script you'll be able to run the solution
   It should runs for the http port 50638, the connection string was configured like this: Server=(LocalDb)\\MSSQLLocalDB;Database=Properties
   If you don't have the LocalDb Instance, you should change the connection string on the appsettings.josn and Common/Entities/PropertiesContext
   And It sould works!

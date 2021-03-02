@@ -16,6 +16,7 @@ export class HomeComponent implements OnInit {
   ) { }
 
   ngOnInit(): void {
+    // Getting data from the API
     this.stockService.getStockData().subscribe(data => {
       this.stockModel = data;
       this.loaded = true;

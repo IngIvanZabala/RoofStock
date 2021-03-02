@@ -26,6 +26,7 @@ namespace RoofStockAssesment.Controllers
         {
             try
             {
+                //Request to get all the data from the API
                 _logger.Info("Getting Stock Data");
                 return new OkObjectResult(await _stockService.GetStockData());
             }
@@ -40,7 +41,8 @@ namespace RoofStockAssesment.Controllers
         {
             try
             {
-                _logger.Info("Getting Stock Data");
+                //Request to get the data by and id sent from the UI
+                _logger.Info("Getting Stock Data by Id");
                 return new OkObjectResult(await _stockService.GetStockDataById(id));
             }
             catch (Exception)
@@ -54,6 +56,7 @@ namespace RoofStockAssesment.Controllers
         {
             try
             {
+                //Request to add a new record on the database
                 _logger.Info("Saving Stock Data");
                 BaseResponseModel result = await _stockService.SaveStockData(id);
                 return new OkObjectResult(result);

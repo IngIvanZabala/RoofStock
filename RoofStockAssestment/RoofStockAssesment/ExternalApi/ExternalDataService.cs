@@ -22,9 +22,11 @@ namespace RoofStockAssesment.ExternalApi
         {
             try
             {
+                // Creating a new webClient
                 using (WebClient webClient = new WebClient())
                 {
                     _logger.Info("Calling external API to get the data");
+                    //Doing the request
                     return JsonConvert.DeserializeObject<StockPropertiesModel>(await webClient.DownloadStringTaskAsync(Constants.fileUrl));
                 }
             }
@@ -39,10 +41,13 @@ namespace RoofStockAssesment.ExternalApi
         {
             try
             {
+                // Creating a new webClient
                 using (WebClient webClient = new WebClient())
                 {
                     _logger.Info($"Calling external API to get the data by the following Id: {id}");
+                    //Doing the request
                     var properties = JsonConvert.DeserializeObject<StockPropertiesModel>(await webClient.DownloadStringTaskAsync(Constants.fileUrl));
+                    //Using Linq to return only the element with the received Id
                     return properties.Properties.Where(x => x.Id == id).FirstOrDefault();
                 }
             }
